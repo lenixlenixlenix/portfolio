@@ -34,7 +34,7 @@
 - **PDF2MP3**. Из названия: текст в pdf в аудиоформат
 
 ### Задания с собеседований
-- Укорачиватель ссылок [](https://github.com/lenixlenixlenix/url-shorter-interview-task)
+- Укорачиватель ссылок [решение](https://github.com/lenixlenixlenix/url-shorter-interview-task)
 
 ## Доп.
 Так же разрабатывал базовые приложения на C++, базово изучил Rust.
