@@ -33,5 +33,8 @@
 - **XKCD downloader**. Асинхронный загрузчик всех комиксов xkcd.com с помощью aiohttp и bs4.
 - **PDF2MP3**. Из названия: текст в pdf в аудиоформат
 
+### Задания с собеседований
+- Укорачиватель ссылок [](https://github.com/lenixlenixlenix/url-shorter-interview-task)
+
 ## Доп.
 Так же разрабатывал базовые приложения на C++, базово изучил Rust.
